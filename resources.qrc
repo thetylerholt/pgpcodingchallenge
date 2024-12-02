@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>frontend.json</file>
+    </qresource>
+</RCC>

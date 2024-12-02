@@ -1,0 +1,11 @@
+[
+    { "id": "box1", "x": 50, "y": 100, "color": "red", "dataSource": "data1" },
+    { "id": "box2", "x": 50, "y": 250, "color": "blue", "dataSource": "data2" },
+    { "id": "box3", "x": 50, "y": 400, "color": "green", "dataSource": "data3" },
+    { "id": "box4", "x": 300, "y": 100, "color": "yellow", "dataSource": "data4" },
+    { "id": "box5", "x": 300, "y": 250, "color": "purple", "dataSource": "data5" },
+    { "id": "box6", "x": 300, "y": 400, "color": "orange", "dataSource": "data6" },
+    { "id": "box7", "x": 550, "y": 100, "color": "pink", "dataSource": "data5" },
+    { "id": "box8", "x": 550, "y": 250, "color": "cyan", "dataSource": "data4" },
+    { "id": "box9", "x": 550, "y": 400, "color": "magenta", "dataSource": "data3" }
+]
